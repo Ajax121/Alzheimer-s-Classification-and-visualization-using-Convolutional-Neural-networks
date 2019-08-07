@@ -8,3 +8,10 @@ Dataset can be obtained by requesting at http://adni.loni.usc.edu/data-samples/a
 Visulization methods are used to identify the regions in the brain that are corresponding to Alzheimer’s disease.
 The regions identified by CNN is compared with the regions present in medical literature. 
 From the results obtained, it was identified that the Grad-CAM visualization method was able to clearly identify the hippocampus region in both the 2D and 3D CNNs which correspond to the region that is most affected in the case of Alzheimers disease as per the medical literature.
+
+Due to lack of computation power, a subvoulme of the MRI (23 Coronal slices) is only considered as input. 
+
+380 training MRI samples : 173 normal subjects, 207 Alzheime's subjects.
+Visulaization results can be produced per subject for each Coronal slice in the MRI scan of that particular subject. 
+
+
