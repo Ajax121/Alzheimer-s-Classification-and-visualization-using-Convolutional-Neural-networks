@@ -14,4 +14,5 @@ Due to lack of computation power, a subvoulme of the MRI (23 Coronal slices) is 
 380 training MRI samples : 173 normal subjects, 207 Alzheime's subjects.
 Visulaization results can be produced per subject for each Coronal slice in the MRI scan of that particular subject. 
 
+In case the jupyter notebooks are not renderd, it can be be viewed in https://nbviewer.jupyter.org/, by pasting the links of the notebooks.
 
